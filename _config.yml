@@ -1,1 +1,37 @@
-remote_theme:artemsheludko/flexible-jekyll
+repository: dooglz/Dooglz.Github.io
+remote_theme: dooglz/lagom
+
+# Color for top bar, links, etc
+highlight_color: '#3498db'
+
+# Profile links on the left sidebar, leave blank to ignore
+social:
+  github: dooglz
+  #bitbucket: philipj
+  #hacker_news: swanson
+  #stackexchange: 348619
+  #stackoverflow: 348619
+  twitter: theDooglz
+  #facebook: zuck
+  #tumblr: animalygifs
+  #linkedin: philipjagielski
+  #gplus: 110552447039675960964
+  #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
+  #flickr: johndoe
+  
+title: "My Blog"
+name: Sam Serrels
+#email: test@example.com
+description: "Hopefully useful to somebody"
+author-img: "SamSerrels_2017.png"
+# Google Analytics key, leave blank to ignore
+#google_analytics_key: UA-xxxx-x
+
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: true
+
+# Toggle link/icon to view atom feed (/atom.xml) in sidebar
+show_atom_feed: true
+
+
+baseurl: ""
